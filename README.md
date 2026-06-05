@@ -38,7 +38,7 @@ design their support systems?
 - /report — full project report
 
 ## Dashboard Preview
-<img width="972" height="553" alt="dashboard_preview" src="https://github.com/user-attachments/assets/b4f3930e-3d92-4a75-ada2-59ecf8834b90" />
+<img width="971" height="553" alt="dashboard_preview" src="https://github.com/user-attachments/assets/56d14003-a80e-4c5b-9692-1663a80e3466" />
 
 ## Limitations
 - 76% of respondents are from the USA — findings may not generalise globally
